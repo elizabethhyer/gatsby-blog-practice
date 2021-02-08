@@ -17,7 +17,7 @@ const Footer = function () {
     <footer className={footerStyles.footer}>
       <p>
         Created with 💔 by {data.site.siteMetadata.author} in the great city of
-        Atlanta, GA ©2021 Bitchesssss
+        Atlanta, GA ©2021
       </p>
     </footer>
   )
